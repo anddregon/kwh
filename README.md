@@ -65,9 +65,9 @@ La documentación de la API se encuentra en la ruta `/docs` de la aplicación.
 
 http://127.0.0.1:8000/docs
 
-## 5.1 Vamos a "Consumption" y luego a "try it out" para probar
-con diferentes fechas y si es diario, semanal o mensual. Luego damos
-click en execute.
+Vamos a `Consumption` y luego a `try it out` para probar
+con diferentes fechas y si queremos que sea diario, semanal o mensual.
+Luego damos click en `execute`.
 
 ## 6. Ejemplos
 
