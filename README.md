@@ -63,7 +63,7 @@ Este comando se debe ejecutar en la carpeta raíz del proyecto.
 
 La documentación de la API se encuentra en la ruta `/docs` de la aplicación.
 
-https://localhost:8000/docs
+http://127.0.0.1:8000/docs
 
 ## 6. Ejemplos
 
