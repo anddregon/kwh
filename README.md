@@ -2,7 +2,7 @@
 
 ## 1. Descripción
 
-Este proyecto es una solución a la prueba técnica para rol como desarrollador backend.
+Este proyecto es una solución a una prueba técnica para rol como desarrollador backend.
 
 ## 2. Requerimientos
 
